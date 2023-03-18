@@ -5,7 +5,7 @@ CristalOS is a simple operating system developed in C# using the Cosmos user kit
 
 ## Getting Started
 
-To run CristalOS, you will need to have Cosmos User Kit installed on your system. Once you have Cosmos installed, you can follow these steps:
+To run CristalOS, you will need to have [Cosmos User Kit](https://www.gocosmos.org/download/) installed on your system. Once you have Cosmos installed, you can follow these steps:
 
 1.Clone the repository or download the source code.
 
